@@ -8,4 +8,4 @@
 => Proposed FrameWork <Make fused Heatmap>  
   
 2D Detection Model(Code) Baseline => HRNet  
-<img src="https://github.com/HRNet/HRNet-Human-Pose-Estimation">
+<img src="https://github.com/HRNet/HRNet-Human-Pose-Estimation"/></a>&nbsp 
