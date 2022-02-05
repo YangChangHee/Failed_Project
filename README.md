@@ -8,4 +8,7 @@
 => Proposed FrameWork <Make fused Heatmap>  
   
 2D Detection Model(Code) Baseline => HRNet  
-Link: [HRNet]https://github.com/HRNet/HRNet-Human-Pose-Estimation
+Link: https://github.com/HRNet/HRNet-Human-Pose-Estimation
+  
+* Make Heatmap: Change Destination Pixel <Convolution>
+    ls
